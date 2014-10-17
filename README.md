@@ -1,4 +1,4 @@
-wordpress-nav-walkers
+WordPress Nav Walkers
 =====================
 
-A repository for premade WordPress nav walker classes.
+A curated repository for premade WordPress nav walker classes.
