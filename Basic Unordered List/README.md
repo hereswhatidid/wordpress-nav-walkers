@@ -34,14 +34,10 @@ Update your `wp_nav_menu()` function to use this walker class by adding a "walke
 		<li><a href="http://devsite.dev/about/">About The Tests</a>
 			<ul>
 				<li><a href="http://devsite.dev/about/page-image-alignment/">Page Image Alignment</a></li>
-				<li>
-					<a href="http://devsite.dev/about/page-markup-and-formatting/">Page Markup And Formatting</a>
-				</li>
+				<li><a href="http://devsite.dev/about/page-markup-and-formatting/">Page Markup And Formatting</a></li>
 				<li><a href="http://devsite.dev/about/clearing-floats/">Clearing Floats</a></li>
 				<li><a href="http://devsite.dev/about/page-with-comments/">Page with comments</a></li>
-				<li>
-					<a href="http://devsite.dev/about/page-with-comments-disabled/">Page with comments disabled</a>
-				</li>
+				<li><a href="http://devsite.dev/about/page-with-comments-disabled/">Page with comments disabled</a></li>
 			</ul>
 		</li>
 		<li><a href="http://devsite.dev/level-1/">Level 1</a>
